@@ -4,17 +4,9 @@ title: About Me
 permalink: /about/
 ---
 
-Hi! I am a recent biomedical engineering graduate from Johns Hopkins University.
+Hi!
 
-This is my personal site.
+I am a research technician at [Sharma Lab](https://www.nsharmalab.com) in the department
+of Molecular Therapeutics and Pharmacology at Columbia University.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I graduated from Johns Hopkins University with a B.S. in Biomedical Engineering.
